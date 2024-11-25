@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P03_01_DI_Productos_TAPIADOR_rodrigo", "P03_01_DI_Productos_TAPIADOR_rodrigo.csproj", "{6E62487C-45AB-4DDF-81F5-15585E398BD8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E62487C-45AB-4DDF-81F5-15585E398BD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E62487C-45AB-4DDF-81F5-15585E398BD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E62487C-45AB-4DDF-81F5-15585E398BD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E62487C-45AB-4DDF-81F5-15585E398BD8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61156A78-C551-4A73-8F7B-9A67A4C58E76}
+	EndGlobalSection
+EndGlobal
